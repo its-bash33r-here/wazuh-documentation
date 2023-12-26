@@ -145,7 +145,7 @@ Multi-node deployment
       .. code-block:: yaml
       
          # Wazuh App Copyright (C) 2021 Wazuh Inc. (License GPLv2)
-         version: '3'
+         version: '2'
 
          services:
            generator:
